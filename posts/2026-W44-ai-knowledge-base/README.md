@@ -1,8 +1,8 @@
-# 我让 AI 帮我「养」一个知识库：4000 页 Obsidian 知识库全自动搭建手册
+# 一、先说痛点：为什么收藏了那么多，还是没有知识？
 
-> 作者：TeddyLiu｜首发于 Trae 社区（技巧分享），2026-W44
-> 配套脚手架：**[ai-kb-starter](https://github.com/TeddyLiu0717/ai-kb-starter)**（`git clone` 即用）
-> 多平台版本：Trae 社区长文（本文）· 小红书 8 图卡片（`cards/` 目录）· 抖音 60 秒口播（筹备中）
+> 作者：TeddyLiu｜首发于 Trae 社区
+> 配套脚手架：**[ai-kb-starter](https://github.com/TeddyLiu0717/ai-kb-starter)**
+> 多平台版本与链接见 [links.md](links.md)；小红书卡片原图见 `cards/`
 
 ---
 
@@ -230,7 +230,7 @@ git clone https://github.com/TeddyLiu0717/ai-kb-starter.git
 
 ---
 
-## 小红书卡片（8 张，3:4）
+## 小红书卡片（3:4）
 
 ![card-01](cards/card-01.png)
 
